@@ -1,2 +1,6 @@
 1- git init => Crea un repositorio o lo reinicia.
 2- git status => Obtengo informacion del repositorio.
+3- git add = agrega el archivo al staging area. 
+4- git commit = "texto explicativo del commit"
+
+
