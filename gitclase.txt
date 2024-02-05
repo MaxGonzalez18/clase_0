@@ -1,0 +1,2 @@
+1- git init => Crea un repositorio o lo reinicia.
+2- git status => Obtengo informacion del repositorio.
